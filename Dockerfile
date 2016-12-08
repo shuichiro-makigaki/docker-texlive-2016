@@ -1,4 +1,4 @@
-FROM fedora:24
+FROM fedora:latest
 MAINTAINER Shuichiro MAKIGAKI
 
 LABEL updated_at '2016-12-08'
