@@ -1,7 +1,7 @@
 FROM fedora:latest
 MAINTAINER Shuichiro MAKIGAKI
 
-LABEL updated_at '2017-01-11'
+LABEL updated_at '2017-02-06'
 
 RUN dnf -y update
 RUN dnf -y install gpg perl perl-Getopt-Long perl-Digest-MD5 tar wget
