@@ -1,8 +1,8 @@
 [![Docker Automated build](https://img.shields.io/docker/automated/makisyu/texlive-2016.svg)](https://hub.docker.com/r/makisyu/texlive-2016/) [![Docker Build Status](https://img.shields.io/docker/build/makisyu/texlive-2016.svg)](https://hub.docker.com/r/makisyu/texlive-2016/)
 
-**TeX Live 2016 has been frozen since May 16th 2017** for TeX Live 2017 release preparation. *No more updates for it forever.*
+**TeX Live 2016 has been frozen since May 16th 2017** *No more updates for it forever.*
 
-Please note that this is good news. Thank you and good bye, TeX Live 2016!
+Thank you and good bye, TeX Live 2016, Welcome [docker-texlive-2017](https://github.com/shuichiro-makigaki/docker-texlive-2017)!
 
 # Dockerfile for TeX Live 2016
 
